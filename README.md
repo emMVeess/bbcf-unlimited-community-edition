@@ -1,4 +1,4 @@
-# Blazblue Centralfiction Unlimited Mod: Community Edition
+# BBCF Unlimited Mod: Community Edition
 A mod for Blazblue Centralfiction making characters reminiscent of their Unlimited counterparts from games past.
 
 Many changes from the characters of games past, including changes towards characters introduced in Centralfiction.
